@@ -1,0 +1,11 @@
+train: [1,     1] loss: 11.336
+Traceback (most recent call last):
+  File "/Users/rachel/PycharmProjects/deepka/pka_predict/train.py", line 201, in <module>
+    train()
+  File "/Users/rachel/PycharmProjects/deepka/pka_predict/train.py", line 132, in train
+    loss.backward()
+  File "/Library/Python/3.9/site-packages/torch/_tensor.py", line 488, in backward
+    torch.autograd.backward(
+  File "/Library/Python/3.9/site-packages/torch/autograd/__init__.py", line 197, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

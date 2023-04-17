@@ -1,0 +1,2 @@
+train: [1,     1] loss: 12.635
+train: [1,     2] loss: 11.856

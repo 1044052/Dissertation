@@ -1,0 +1,1 @@
+mat1 and mat2 shapes cannot be multiplied (32x3456 and 6912x500)
